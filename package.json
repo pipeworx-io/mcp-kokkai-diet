@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-kokkai-diet",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Kokkai Diet MCP — Japan National Diet proceedings, speech-level full-text",
   "type": "module",
   "main": "src/index.ts",
@@ -24,5 +24,9 @@
   "devDependencies": {
     "typescript": "^5.9.3",
     "@cloudflare/workers-types": "^4.20260405.1"
+  },
+  "pipeworx": {
+    "sourceHash": "v1-d476b8e6dd02a78fcb752b88e5b600585c4efd36f4628ca8045b6be28850e3db",
+    "sourceCommit": "adb69d997f82a62e8e22b594488c7d04a227db35"
   }
 }
