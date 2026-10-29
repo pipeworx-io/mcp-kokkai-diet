@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/kokkai-diet",
   "title": "Kokkai Diet",
   "description": "Kokkai Diet MCP — Japan National Diet proceedings, speech-level full-text search via the National…",
-  "version": "0.1.3",
+  "version": "0.2.0",
   "websiteUrl": "https://pipeworx.io/packs/kokkai-diet",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-kokkai-diet",
